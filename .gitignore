@@ -1,0 +1,49 @@
+# Personal data — CVs, cover letters, job search artifacts
+data/2604*
+data/2605*
+data/2606*
+data/2026-*
+data/generate_30day_plan.py
+data/tracker.md
+data/linkedin-*
+data/vacancies/
+
+# Generated files
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Temp & cache
+tmp/
+.claude/
+
+# MCP config (may contain tokens)
+.mcp.json
+
+# Reports (personal)
+reports/
+
+# Scripts cache
+scripts/__pycache__/
