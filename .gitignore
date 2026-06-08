@@ -37,7 +37,11 @@ Desktop.ini
 
 # Temp & cache
 tmp/
-.claude/
+
+# Claude Code — skip all except skills
+.claude/*
+!.claude/skills/
+!.claude/skills/**
 
 # MCP config (may contain tokens)
 .mcp.json
