@@ -169,7 +169,7 @@ career-ai/
 # Анализ конкретной вакансии по ссылке
 Проанализируй вакансию https://hh.ru/vacancy/12345678
 ```
-![Результат скана LinkedIn](Images/Scan_LinkedIn.png)
+![Анализ вакансии](Images/Vacancy_Analisys.png)
 ```
 # Сопроводительное письмо
 Напиши сопроводительное для вакансии из data/vacancies/название/
@@ -179,7 +179,7 @@ career-ai/
 # Подготовка к собеседованию
 Подготовься к собеседованию по вакансии из data/vacancies/название/
 ```
-![Результат скана LinkedIn](Images/Scan_LinkedIn.png)
+![Подготовка к собеседованию](Images/Interview_prep.png)
 
 
 ## Настройка под себя
