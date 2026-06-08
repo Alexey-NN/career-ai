@@ -157,19 +157,30 @@ career-ai/
 ```
 # Скан Telegram-каналов
 Проверь вакансии в телеграме
-
+```
+![Результат скана Telegram](Images/Scan_telegram.png)
+```
 # Скан вакансий в LinkedIn
 Проверь вакансии в LinkedIn
+```
+![Результат скана LinkedIn](Images/Scan_LinkedIn.png)
+```
 
 # Анализ конкретной вакансии по ссылке
 Проанализируй вакансию https://hh.ru/vacancy/12345678
-
+```
+![Результат скана LinkedIn](Images/Scan_LinkedIn.png)
+```
 # Сопроводительное письмо
 Напиши сопроводительное для вакансии из data/vacancies/название/
-
+```
+![Сопроводительное письмо](Images/Cover_Letter.png)
+```
 # Подготовка к собеседованию
 Подготовься к собеседованию по вакансии из data/vacancies/название/
 ```
+![Результат скана LinkedIn](Images/Scan_LinkedIn.png)
+
 
 ## Настройка под себя
 
