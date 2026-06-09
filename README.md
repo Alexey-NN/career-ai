@@ -115,7 +115,6 @@ Career-AI — набор инструкций и алгоритмов для [Cl
 career-ai/
 ├── CLAUDE.md                              # Инструкции для Claude Code
 ├── README.md                              # Этот файл
-├── career-ai-project-description.md        # Описание проекта
 ├── scripts/
 │   └── md_to_docx.py                      # Генерация Word-документов
 └── data/
